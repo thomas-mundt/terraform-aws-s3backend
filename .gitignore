@@ -1,0 +1,6 @@
+.terraform
+.idea
+.terraform.lock.hcl
+local_tf_state
+
+

@@ -1,1 +1,1 @@
-# terraform-aws-s3backend
+# terraform aws init
